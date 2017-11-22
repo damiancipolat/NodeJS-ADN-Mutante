@@ -63,4 +63,3 @@ let adn = ['AAAT','CCGG','AAAA','GGCC'];
 //Reviso si es mutante o no.
 console.log(mutant.isMutant(adn));
 ```
-# NodeJS-ADN-Mutante
